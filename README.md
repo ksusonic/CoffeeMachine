@@ -1,2 +1,2 @@
-# Coffee Machine 
-Программа автомата с кофе
+# Coffee Machine project (Python)
+Made for hyperskill.org
