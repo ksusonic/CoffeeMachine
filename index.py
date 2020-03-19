@@ -95,3 +95,5 @@ tag = True
 
 while tag:
     machine1.take()
+
+# Даня помоги
